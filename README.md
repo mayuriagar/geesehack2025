@@ -13,9 +13,6 @@ Key Features:
 
 Setup / Run:
 
-|
-V
-
 Backend:
 cd backend
 pip install -r requirements.txt
